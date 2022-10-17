@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "test_01atlag.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_01atlag.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_02atlag.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_02atlag.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_03atlag.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_03atlag.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_04atlag.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_04atlag.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
